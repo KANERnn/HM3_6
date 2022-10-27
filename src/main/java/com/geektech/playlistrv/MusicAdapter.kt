@@ -1,4 +1,4 @@
-package com.geektech.playlistrv
+package com.hm3_6
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
